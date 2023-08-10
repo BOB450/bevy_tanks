@@ -1,6 +1,7 @@
 #![allow(clippy::too_many_arguments, clippy::type_complexity)]
 use bevy::prelude::*;
 use bevy_editor_pls::prelude::*;
+
 //-----marker COmponents for easy qeuering----
 #[derive(Component)]
 struct Player;
